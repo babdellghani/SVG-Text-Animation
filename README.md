@@ -1,7 +1,7 @@
 # SVG-Text-Animation
 SVG-Text-Animation
 
-## SVG-Text-Animation
+## Technologies Used
 
 - HTML
 - CSS
